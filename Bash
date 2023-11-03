@@ -1,4 +1,0 @@
-mkdir chat-app
-cd chat-app
-npm init -y
-node server.js
